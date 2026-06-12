@@ -1,6 +1,6 @@
 <div align="center">
 
-# BEATRIX.D
+# ʙᴇᴇᴛʟ
 
 ### ✦ digital creator • drummer • mechanic ✦
 
@@ -17,7 +17,7 @@
 ## ✦ about
 
 ```txt id="frg2ot"
-name      :: sophia
+name      :: 
 status    :: online
 location  :: somewhere between code and creativity
 
