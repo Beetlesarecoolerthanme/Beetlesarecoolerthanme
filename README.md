@@ -43,9 +43,9 @@ interests ::
 ## ✦ currently listening to
 
 ```txt id="8mch2t"
-♫ artist  :: your favorite artist
-♫ album   :: your favorite album
-♫ mood    :: late-night coding
+♫ artist  :: Nuvfr
+♫ album   :: DON ' T TAP THAT GLASS
+♫ mood    :: Aesthetic forest 
 ```
 
 ---
