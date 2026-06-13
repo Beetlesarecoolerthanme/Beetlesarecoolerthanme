@@ -17,7 +17,7 @@
 ## ✦ about
 
 ```txt id="frg2ot"
-name      :: Beetl 
+name      :: Beetl / Mafioso / Mr or Ms. Sleepy
 status    :: online
 location  :: Eastern United States
 
