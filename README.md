@@ -18,7 +18,7 @@
 
 ```txt id="frg2ot"
 name      :: Beetl / Mafioso / Mr or Ms. Sleepy
-status    :: offline
+status    :: look at status
 location  :: Eastern United States
 
 currently ::
