@@ -17,7 +17,8 @@
 ## ✦ about
 
 ```txt id="frg2ot"
-I go by a LOT of names so bear with me but please know that I don't mind ANY of these! Call me what you're comfortable with calling me.
+**Just call me by what you're comfortable with.** 
+
 name      :: Beetl / Mafioso / Mr or Ms. Sleepy / Squire 
 status    :: look at status
 location  :: Eastern United States
