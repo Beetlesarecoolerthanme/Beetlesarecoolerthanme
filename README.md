@@ -17,7 +17,8 @@
 ## ✦ about
 
 ```txt id="frg2ot"
-name      :: Beetl / Mafioso / Mr or Ms. Sleepy
+I go by a LOT of names so bear with me but please know that I don't mind ANY of these! Call me what you're comfortable with calling me.
+name      :: Beetl / Mafioso / Mr or Ms. Sleepy / Squire 
 status    :: look at status
 location  :: Eastern United States
 
@@ -56,7 +57,7 @@ interests ::
 Strawpage : : https://beetlecorp.straw.page/
 Tiktok    : : @funglenoms
 Github    : : Beetlesarecoolerthanme
-I recommend reaching out to me on Pony Town where I'm active the most. 
+I recommend reaching out to me on Pony Town where I'm active the most. Look at location for my whereabouts in PONY TOWN specifically.
 ```
 
 ---
