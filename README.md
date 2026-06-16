@@ -17,7 +17,7 @@
 ## ✦ about
 
 ```txt id="frg2ot"
-**Just call me by what you're comfortable with.** 
+Just call me by what you're comfortable with.
 
 name      :: Beetl / Mafioso / Mr or Ms. Sleepy / Squire 
 status    :: look at status
