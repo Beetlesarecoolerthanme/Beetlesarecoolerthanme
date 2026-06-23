@@ -19,7 +19,7 @@
 ```txt id="frg2ot"
 Just call me by what you're comfortable with.
 
-name      :: Beetl / Mafioso / Mr or Ms. Sleepy / Squire 
+name      :: Beetl / Bug / Mafioso / Mr or Ms. Sleepy / Squire 
 status    :: look at status
 location  :: Eastern United States
 
