@@ -20,7 +20,7 @@
 Just call me by what you're comfortable with.
 
 name      :: Beetl / Bug / Mafioso / Mr or Ms. Sleepy / Squire 
-status    :: look at status
+status    :: Too busy sleeping to change my status accordingly ^^ '
 location  :: Eastern United States
 
 currently ::
