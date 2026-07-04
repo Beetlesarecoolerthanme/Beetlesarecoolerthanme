@@ -40,8 +40,6 @@ interests ::
 
 </div>
 
----
-
 <div align="center">
  
 ## ✦ links
