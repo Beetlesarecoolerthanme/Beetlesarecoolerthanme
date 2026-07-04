@@ -40,10 +40,10 @@ interests ::
 
 <div align="center">
  
-## ✦ links
+## ✦ links v v v
 [STRAWPAGE](https://beetlecorp.straw.page/)
 
-
+---
 ✦
 
 *" Don ' t be in debt  . "*
@@ -51,3 +51,4 @@ interests ::
 ✦
 
 </div>
+---
