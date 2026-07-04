@@ -38,8 +38,6 @@ interests ::
 - Music
 ```
 
-</div>
-
 <div align="center">
  
 ## ✦ links
