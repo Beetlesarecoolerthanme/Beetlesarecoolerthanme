@@ -40,7 +40,7 @@ interests ::
 
 <div align="center">
  
-## ✦ links v v v
+## ✦ links    v
 [STRAWPAGE](https://beetlecorp.straw.page/)
 
 ---
