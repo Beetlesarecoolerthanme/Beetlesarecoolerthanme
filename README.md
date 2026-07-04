@@ -8,7 +8,7 @@
 
 <br>
 
-> *welcome to my little corner of the internet*
+> *Certified Mafioso Kin*
 
 </div>
 
