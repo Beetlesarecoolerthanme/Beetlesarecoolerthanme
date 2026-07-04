@@ -4,7 +4,8 @@
 
 ### ✦ digital creator • drummer • mechanic ✦
 
-<img src="./assets/banner.png" width="100%">
+ <img src="https://i.pinimg.com/736x/24/b9/26/24b9264b3aabdb2f165334156ece58c8.jpg" width="500">
+</p>
 
 <br>
 
