@@ -26,7 +26,7 @@ status    :: Too busy sleeping to change my status accordingly ^^ '
 location  :: Eastern United States
 
 currently ::
-- Working on a big writing project .
+- Working on a big writing project and improving my github whenever I get the chance to .
 
 interests ::
 - Roblox
@@ -36,6 +36,9 @@ interests ::
 - Pixelated games
 - Art
 - Music
+
+Extra ::
+Make sure to give my ALT ACCOUNT a follow :3
 ```
 
 <div align="center">
