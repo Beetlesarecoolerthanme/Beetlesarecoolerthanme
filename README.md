@@ -44,16 +44,6 @@ interests ::
 
 ---
 
-## ✦ currently listening to
-
-```txt id="8mch2t"
-♫ artist  :: Nuvfr
-♫ album   :: DON ' T TAP THAT GLASS
-♫ mood    :: Debito Di Sonno
-```
-
----
-
 ## ✦ links
 
 ```txt id="l35ghk"
