@@ -38,8 +38,6 @@ interests ::
 - Music
 ```
 
----
-
 </div>
 
 ---
