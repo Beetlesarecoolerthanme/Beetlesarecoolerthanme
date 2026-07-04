@@ -4,8 +4,8 @@
 
 ### ✦ digital creator • drummer • mechanic ✦
 
- <img src="<img width="1920" height="1080" alt="mafioso github" src="https://github.com/user-attachments/assets/2a3d6c5e-a596-4752-b4a5-bbde5e491912" />
-" width="500">
+ <img width="1920" height="1080" alt="mafioso github" src="https://github.com/user-attachments/assets/2a3d6c5e-a596-4752-b4a5-bbde5e491912" />
+" 
 </p>
 
 <br>
