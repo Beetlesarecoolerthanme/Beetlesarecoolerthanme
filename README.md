@@ -43,7 +43,6 @@ interests ::
 ## ✦ links
 [STRAWPAGE](https://beetlecorp.straw.page/)
 
----
 
 ✦
 
