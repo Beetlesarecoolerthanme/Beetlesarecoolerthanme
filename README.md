@@ -43,23 +43,20 @@ interests ::
 </div>
 
 ---
+<div align="center">
 
 ## ✦ links
 
-```txt id="l35ghk"
-Strawpage : : https://beetlecorp.straw.page/
-Tiktok    : : @funglenoms
-Github    : : Beetlesarecoolerthanme
-I recommend reaching out to me on Pony Town where I'm active the most. Look at location for my whereabouts in PONY TOWN specifically.
-```
+---
+
 
 ---
 
-<div align="center">
+
 
 ✦
 
-*" ᴅᴏɴ ' ᴛ ʙᴇ ᴀꜰʀᴀɪᴅ ᴛᴏ ʙᴇ ʏᴏᴜʀꜱᴇʟꜰ . "*
+*" Don ' t be in debt  . "*
 
 ✦
 
