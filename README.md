@@ -38,7 +38,7 @@ interests ::
 - Music
 
 Extra ::
-Make sure to give my ALT ACCOUNT a follow :3
+Make sure to give my ALT ACCOUNT a follow :D
 ```
 
 <div align="center">
