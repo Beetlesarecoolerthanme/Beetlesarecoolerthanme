@@ -42,7 +42,7 @@ interests ::
  
 ## ✦ links    v
 [STRAWPAGE](https://beetlecorp.straw.page/)
-
+[ALT ACCOUNT](https://github.com/Eggchansnumberonefanintheworld)
 ---
 ✦
 
