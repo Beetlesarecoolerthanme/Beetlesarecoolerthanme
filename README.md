@@ -26,8 +26,7 @@ status    :: Too busy sleeping to change my status accordingly ^^ '
 location  :: Eastern United States
 
 currently ::
-- Working on a big writing project and improving my github whenever I get the chance to .
-
+- Making a better strawpage because the one I have isn't the greatest at the moment . .
 interests ::
 - Roblox
 - Minecraft
