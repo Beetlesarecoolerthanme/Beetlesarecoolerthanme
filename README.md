@@ -43,7 +43,7 @@ Make sure to give my ALT ACCOUNT a follow :D
 <div align="center">
  
 ## ✦ links    v
-[STRAWPAGE](https://beetlecorp.straw.page/)
+[STRAWPAGE](https://mafiosohideout.straw.page/)
 
 [ALT ACCOUNT](https://github.com/Eggchansnumberonefanintheworld)
 
