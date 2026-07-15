@@ -47,7 +47,10 @@ Make sure to give my ALT ACCOUNT a follow :D
 
 [ALT ACCOUNT](https://github.com/Eggchansnumberonefanintheworld)
 
-[MOOT](https://github.com/PupperzZ)
+## ✦ moots    v
+
+[PUPPY](https://github.com/PupperzZ)
+[KAT](https://github.com/zoesbellie2)
 
 ---
 
