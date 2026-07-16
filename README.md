@@ -21,12 +21,12 @@
 ```txt id="frg2ot"
 Just call me by what you're comfortable with.
 
-name      :: Beetl / Bug / Mafioso / Mr or Ms. Sleepy / Squire 
-status    :: Too busy sleeping to change my status accordingly ^^ '
+name      :: Beetl / Bug / Mafioso / Mr or Ms. Sleepy / Squire / any of my kins' names
+status    :: Too busy sleeping to change my status accordingly.
 location  :: Eastern United States
 
 currently ::
-- Making a better strawpage because the one I have isn't the greatest at the moment . .
+- Getting started on updating my Github and my alt git...
 interests ::
 - Roblox
 - Minecraft
@@ -37,7 +37,7 @@ interests ::
 - Music
 
 Extra ::
-Make sure to give my ALT ACCOUNT a follow :D
+Make sure to give my ALT ACCOUNT a follow :D Also doubles are welcome, please interact omg
 ```
 
 <div align="center">
