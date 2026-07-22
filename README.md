@@ -44,8 +44,7 @@ Make sure to give my ALT ACCOUNT a follow :D Also doubles are welcome, please in
  
 ## ✦ links    v
 [STRAWPAGE](https://mafiosohideout.straw.page/)
-
-[ALT ACCOUNT](https://github.com/Eggchansnumberonefanintheworld)
+[ALT ACCOUNT](https://github.com/itrappedismyamazinghusband)
 
 ## ✦ moots    v
 
