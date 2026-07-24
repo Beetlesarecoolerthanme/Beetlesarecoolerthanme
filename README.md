@@ -4,7 +4,7 @@
 
 ### ✦ drummer and mechanic ✦
 
- <img width="1920" height="1080" alt="mafioso github" src="https://i.pinimg.com/736x/41/7d/bc/417dbc9d5f53466de3660f4ecc8608d5.jpg" />
+ <img width="1700" height="1080" alt="mafioso github" src="https://i.pinimg.com/736x/41/7d/bc/417dbc9d5f53466de3660f4ecc8608d5.jpg" />
 
  <div align="center">
  
