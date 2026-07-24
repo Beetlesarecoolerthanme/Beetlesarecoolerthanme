@@ -29,7 +29,7 @@
 ## ✦ links    v
 [STRAWPAGE](https://mafiosohideout.straw.page/)
 
-[ALT ACCOUNT](https://github.com/itrappedismyamazinghusband)
+[ALT ACCOUNT / YUME](https://github.com/itrappedismyamazinghusband)
 
 ## ✦ moots    v
 
