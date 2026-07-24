@@ -21,7 +21,10 @@
 - name      :: Beetl / Bug / Mafioso / Check Straw for other names .
 - status    :: Too busy sleeping to change my status accordingly .
 - location  :: Eastern United States .
-- Extra :: Make sure to give my ALT ACCOUNT a follow :D ! Also doubles (kins and yumes) are welcome , please interact omg
+
+<div align="center">
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4100&pause=1000&color=97C1E6&width=435&lines=Y+I'll+just+be+what%2C+I'll'+have+to+be+.+" alt="Typing SVG" /></a>
 
 
 <div align="center">
