@@ -24,7 +24,7 @@
 
 <div align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4100&pause=1000&color=D3D3D3&width=500&lines=I'll+just+be+what%2C+I+have+to+be+.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4100&pause=1000&color=D3D3D3&width=500&lines=I'll+just+be+what%2C+I+have+to+be+.+" alt="Typing SVG" /></a>
  
 ## ✦ links    v
 [STRAWPAGE](https://mafiosohideout.straw.page/)
