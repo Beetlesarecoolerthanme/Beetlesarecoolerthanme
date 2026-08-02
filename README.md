@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=363737&label=DEBTORS+VISITED&style=plastic&abbreviation=true)
 
-![](https://komarev.com/ghpvc/?username=PupperzZ&color=FFD580&label=PUPPIES+VISITED&style=plastic&abbreviation=true)
+![](https://komarev.com/ghpvc/?username=PupperzZ&color=FFA500&label=PUPPIES+VISITED&style=plastic&abbreviation=true)
 
 
 ### ✦ drummer and mechanic ✦
