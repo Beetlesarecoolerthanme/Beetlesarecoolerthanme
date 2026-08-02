@@ -48,4 +48,6 @@
 
 </div>
 
-<img width="300" height="70" alt="Mafioso's github" src="https://64.media.tumblr.com/bd7afdec938acdd1d8b1bdece9f75083/7e93a3775387e52e-b2/s1280x1920/901650cb84d3813c21e9d74048661dc48a864621.pnj" />
+<img width="300" height="70" alt="Mafioso's github" src="https://64.media.tumblr.com/bd7afdec938acdd1d8b1bdece9f75083/7e93a3775387e52e-b2/s1280x1920/901650cb84d3813c21e9d74048661dc48a864621.pnj" />   <img width="300" height="70" alt="Mafioso's github" src="https://64.media.tumblr.com/09f65b857aebb61e64e403d17be5fb4c/1920154fc9fd3612-a4/s540x810/2dee7dce70e5fbe9af628cee22760af6a8e237f6.pnj" /> 
+
+
