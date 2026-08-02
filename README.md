@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=raivings&base=59&label=‎debts+claimed&style=flat-square&color=363737)
+![](https://komarev.com/ghpvc/?username=raivings&base=&label=‎debts+claimed&style=flat-square&color=363737)
 
 
 ### ✦ drummer and mechanic ✦
