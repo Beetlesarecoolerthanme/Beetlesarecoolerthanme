@@ -2,9 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=363737&label=DEBTORS+VISITED&style=plastic&abbreviation=true)
 
-![](https://komarev.com/ghpvc/?username=PupperzZ&base=FFD580&color=FFA500&label=PUPPIES+VISITED&style=plastic&abbreviation=true)
-
-
 ### ✦ drummer and mechanic ✦
 
  <img width="1700" height="1000" alt="mafioso github" src="https://i.pinimg.com/736x/41/7d/bc/417dbc9d5f53466de3660f4ecc8608d5.jpg" />
