@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=raivings&base=8943254&label=‎pokerchips&style=flat-square&color=432740)
+![](https://komarev.com/ghpvc/?username=raivings&base=8943254&label=‎pokerchips&style=flat-square&color=363737)
 
 
 ### ✦ drummer and mechanic ✦
