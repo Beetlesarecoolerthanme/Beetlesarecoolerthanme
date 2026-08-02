@@ -37,6 +37,8 @@
 
 [KAT](https://github.com/zoesbellie2)
 
+<img width="600" height="140" alt="Mafioso's github" src="https://64.media.tumblr.com/bd7afdec938acdd1d8b1bdece9f75083/7e93a3775387e52e-b2/s1280x1920/901650cb84d3813c21e9d74048661dc48a864621.pnj" />
+
 ---
 
 ✦
