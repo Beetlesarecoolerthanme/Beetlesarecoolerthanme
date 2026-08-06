@@ -29,6 +29,10 @@
 ## ✦ links    v
 [STRAWPAGE](https://mafiosohideout.straw.page/)
 
+[ATA](https://mafiososhideout.atabook.org/)
+
+[PRNS PAGE](https://en.pronouns.page/@Beetl)
+
 [ALT ACCOUNT / YUME](https://github.com/itrappedismyamazinghusband)
 
 ## ✦ moots    v
