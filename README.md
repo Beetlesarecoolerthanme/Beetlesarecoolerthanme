@@ -33,6 +33,8 @@
 
 [PRNS PAGE](https://en.pronouns.page/@Beetl)
 
+[RENTRY](https://rentry.co/8n5zkwzw)
+
 [ALT ACCOUNT / YUME](https://github.com/itrappedismyamazinghusband)
 
 ## ✦ moots    v
