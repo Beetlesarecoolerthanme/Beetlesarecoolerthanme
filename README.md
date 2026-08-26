@@ -27,7 +27,7 @@
 - location  :: Eastern United States .
  
 ## ✦ links    v
-[STRAWPAGE](https://mafiosohideout.straw.page/)
+[STRAWPAGE](https://themafiahideout.straw.page/)
 
 [ATA](https://mafiososhideout.atabook.org/)
 
