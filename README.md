@@ -29,8 +29,6 @@
 ## ✦ links    v
 [STRAWPAGE](https://linkedswordphighting.straw.page/)
 
-[ATA](https://mafiososhideout.atabook.org/)
-
 [PRNS PAGE](https://en.pronouns.page/@Beetl)
 
 [RENTRY](https://rentry.co/8n5zkwzw)
