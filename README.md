@@ -22,8 +22,8 @@
 
 ## ✦ about
 
-- name      :: Beetl / Bug / Mafioso / Check Straw for other names .
-- status    :: Too busy sleeping to change my status accordingly .
+- name      :: Beetl / Bug / Sword .
+- status    :: Working on a new Github ! Get ready for Sword themed Github . . .
 - location  :: Eastern United States .
  
 ## ✦ links    v
