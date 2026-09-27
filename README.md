@@ -48,7 +48,7 @@
 
 ✦
 
-*" Don ' t be in debt  . "*
+*" Make someone smile  . "*
 
 ✦
 
