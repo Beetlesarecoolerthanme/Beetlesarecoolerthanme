@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=363737&label=DEBTORS+VISITED&style=plastic&abbreviation=true)
+![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=363737&label=INPHERNALS+VISITED&style=plastic&abbreviation=true)
 
 ### ✦ drummer and mechanic ✦
 
@@ -14,7 +14,7 @@
 
 <br>
 
-> *Certified Mafioso Kin*
+> *Certified Sword Kin*
 
 </div>
 
@@ -23,7 +23,7 @@
 ## ✦ about
 
 - name      :: Beetl / Bug / Sword .
-- status    :: Working on a new Github ! Get ready for Sword themed Github . . .
+- status    :: Working on a new Github ! My git is slowly shifting over to phighting . . .
 - location  :: Eastern United States .
  
 ## ✦ links    v
@@ -31,7 +31,7 @@
 
 [PRNS PAGE](https://en.pronouns.page/@Beetl)
 
-[RENTRY](https://rentry.co/8n5zkwzw)
+[BOUNDARIES](https://swordssboundaries.straw.page/)
 
 [ALT ACCOUNT / YUME](https://github.com/itrappedismyamazinghusband)
 
