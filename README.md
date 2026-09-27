@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=8B0000&label=INPHERNALS+VISITED&style=plastic&abbreviation=true)
+![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=red&label=INPHERNALS+VISITED&style=plastic&abbreviation=true)
 
 ### ✦ drummer and mechanic ✦
 
