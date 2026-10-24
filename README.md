@@ -25,6 +25,7 @@
 - name      :: Beetl / Bug / Sword .
 - status    :: Working on a new Github ! My git is slowly shifting over to phighting . . .
 - location  :: Eastern United States .
+- Partner   :: [ROCKET](https://github.com/Pathogen-Interface) 
  
 ## ✦ links    v
 [STRAWPAGE](https://linkedswordphighting.straw.page/)
@@ -40,8 +41,6 @@
 [PUPPY](https://github.com/PupperzZ)
 
 [KAT](https://github.com/zoesbellie2)
-
-[ROCKET](https://github.com/Pathogen-Interface)
 
 ---
 
