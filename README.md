@@ -23,7 +23,7 @@
 ## ✦ about
 
 - name      :: Beetl / Bug / Sword .
-- status    :: Working on a new Github ! My git is slowly shifting over to phighting . . .
+- status    :: Busy with school !
 - location  :: Eastern United States .
 
  
