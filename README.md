@@ -22,7 +22,7 @@
 
 ## ✦ about
 
-- name      :: Beetl / Bug / Sword .
+- name      :: Sword / Knight / Feather .
 - status    :: Busy with school !
 - location  :: Eastern United States .
 
