@@ -36,12 +36,6 @@
 
 [ALT ACCOUNT / YUME](https://github.com/itrappedismyamazinghusband)
 
-## ✦ moots    v
-
-[PUPPY](https://github.com/PupperzZ)
-
-[KAT](https://github.com/zoesbellie2)
-
 ---
 
 
