@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Beetlesarecoolerthanme&color=red&label=INPHERNALS+VISITED&style=plastic&abbreviation=true)
 
-### ✦ drummer and mechanic ✦
+### ✦ Fearless Warrior ✦
 
  <img width="700" height="650" alt="mafioso github" src="https://i.pinimg.com/736x/de/5e/47/de5e47401c40118d06664e2c042d90e3.jpg" />
 
