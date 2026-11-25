@@ -24,7 +24,7 @@
 
 - name      :: Sword / Knight / Feather .
 - status    :: Busy with school !
-- location  :: Eastern United States .
+- location  :: United States .
 
  
 ## ✦ links    v
